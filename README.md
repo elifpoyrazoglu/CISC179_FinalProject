@@ -3,6 +3,7 @@
 =====================================================
 
 Project Overview
+
 The purpose of this project is to combine and cleanse data using python. For those who needs visuals, it also produces graphs using Matplotlib.
 
 =====================================================
