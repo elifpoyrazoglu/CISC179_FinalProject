@@ -1,5 +1,5 @@
 # CISC179_FinalProject
- Enclosed are the contents for the final project
+
 =====================================================
 
 Project Overview
