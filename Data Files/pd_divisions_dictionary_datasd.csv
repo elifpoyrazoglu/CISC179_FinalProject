@@ -1,0 +1,4 @@
+field,field_type,description,possible_values
+objectid,Integar,Unique identifier,
+div_num,Integar,Division number,
+div_name,String,Division name,

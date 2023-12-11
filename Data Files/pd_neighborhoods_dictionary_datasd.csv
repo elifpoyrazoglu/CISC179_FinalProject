@@ -1,0 +1,3 @@
+field,field_type,description,possible_values
+objectid,Integar,Unique identifier,
+name,String,Neighborhood name,
